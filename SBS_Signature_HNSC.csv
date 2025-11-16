@@ -1,0 +1,71 @@
+Dataset,Cancer type,Cancer subtype,SBS signature,Gene,Chrom,Position,Reference allele,Alternate allele,Reference amino acid,Tumour amino acid,Trinucleotide context,Exon
+PCAWG,Head and neck,Head-SCC,SBS13,BIRC6,2,32733227,C,G,S,X,TCA,51
+PCAWG,Head and neck,Head-SCC,SBS13,CARMIL3,14,24531703,C,G,S,X,TCA,28
+PCAWG,Head and neck,Head-SCC,SBS13,FAT1,4,187532590,G,C,S,X,TCA,14
+PCAWG,Head and neck,Head-SCC,SBS13,HLA-A,6,29910744,C,G,S,X,TCA,2
+PCAWG,Head and neck,Head-SCC,SBS13,HLA-A,6,29910797,G,T,E,X,TCG,2
+PCAWG,Head and neck,Head-SCC,SBS13,KMT2D,12,49438595,G,C,S,X,TCA,19
+PCAWG,Head and neck,Head-SCC,SBS13,SCAF8,6,155131214,C,G,S,X,TCA,12
+PCAWG,Head and neck,Head-SCC,SBS13,TGFBR2,3,30691947,C,G,S,X,TCA,3
+PCAWG,Head and neck,Head-SCC,SBS13,ZIM3,19,57647166,G,C,S,X,TCA,5
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,BIRC6,2,32640716,C,A,S,X,TCA,10
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,BIRC6,2,32724766,C,G,S,X,TCA,46
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,BIRC6,2,32733227,C,G,S,X,TCA,51
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,CARMIL3,14,24531703,C,G,S,X,TCA,28
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,CDKN2A,9,21971000,C,A,E,X,TCC,2
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,CDKN2A,9,21971096,C,A,E,X,TCC,2
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,CDKN2A,9,21971096,C,A,E,X,TCC,2
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,CDKN2A,9,21971096,C,A,E,X,TCC,2
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,CDKN2A,9,21971153,C,A,E,X,TCC,2
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,EPHA2,1,16464404,G,C,S,X,TCA,5
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,EPHA2,1,16464404,G,C,S,X,TCA,5
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,EPHA2,1,16464404,G,C,S,X,TCA,5
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,EPHA2,1,16464404,G,C,S,X,TCA,5
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187517826,C,A,E,X,TCG,25
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187517874,C,A,E,X,TCG,25
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187525001,G,C,S,X,TCA,19
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187527363,G,C,S,X,TCA,17
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187530372,C,A,E,X,TCT,16
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187530425,G,C,S,X,TCA,16
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187530425,G,C,S,X,TCA,16
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187530425,G,C,S,X,TCA,16
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187532590,G,C,S,X,TCA,14
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187538164,C,A,E,X,TCA,11
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187538223,G,C,S,X,TCA,11
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187539227,G,C,S,X,TCA,10
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187539227,G,T,S,X,TCA,10
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187541760,C,A,E,X,TCG,10
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187549314,C,A,E,X,TCG,9
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187560919,G,C,S,X,TCA,4
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187560919,G,C,S,X,TCA,4
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187627830,G,C,S,X,TCA,2
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187630504,C,A,E,X,TCA,2
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187630870,C,A,E,X,TCG,2
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,FAT1,4,187630900,C,A,E,X,TCA,2
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,HLA-A,6,29910587,G,T,E,X,TCC,2
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,HLA-A,6,29910797,G,T,E,X,TCG,2
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,KMT2D,12,49436602,C,A,E,X,TCA,26
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,KMT2D,12,49438545,C,A,E,X,TCA,19
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,KMT2D,12,49438595,G,C,S,X,TCA,19
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,KMT2D,12,49443703,G,C,S,X,TCA,11
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,KMT2D,12,49443899,C,A,E,X,TCG,11
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,KMT2D,12,49443973,G,C,S,X,TCA,11
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,SCAF8,6,155131214,C,G,S,X,TCA,12
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,SCAF8,6,155145426,C,A,S,X,TCG,17
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,TGFBR2,3,30691947,C,G,S,X,TCA,3
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,TGFBR2,3,30691947,C,G,S,X,TCA,3
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,TGFBR2,3,30713559,C,G,S,X,TCA,4
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,TGFBR2,3,30713559,C,G,S,X,TCA,4
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,TP53,17,7574012,C,A,E,X,TCG,10
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,TP53,17,7577046,C,A,E,X,TCG,8
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,TP53,17,7577058,C,A,E,X,TCC,8
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,TP53,17,7577058,C,A,E,X,TCC,8
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,TP53,17,7577085,C,A,E,X,TCT,8
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,TP53,17,7578433,G,C,S,X,TCA,5
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,TP53,17,7579485,C,A,E,X,TCT,4
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,TP53,17,7579521,C,A,E,X,TCA,4
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,TP53,17,7579521,C,A,E,X,TCA,4
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,ZIM3,19,57646326,G,T,S,X,TCA,5
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,ZIM3,19,57646830,G,C,S,X,TCA,5
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,ZNF253,19,20002532,C,G,S,X,TCA,4
+TCGA,Head and neck,Head and Neck squamous cell carcinoma,SBS13,ZNF253,19,20002778,C,G,S,X,TCA,4
